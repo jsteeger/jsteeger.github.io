@@ -4,18 +4,19 @@ hugoblox:
     name: Jer Steeger
     type: person
     tagline: Philosopher of Physics
-    description: Dr. Jer Steeger is a philosopher of physics taking a pluralist approach to issues in quantum foundations and education.
+    description: Dr. Jer Steeger is a philosopher of physics taking a pluralist approach to issues in quantum foundations and physics education.
     organization: University of Bristol
   theme:
     mode: system
-    pack: synthwave
+    pack: minimal
     colors:
-      primary: ""
-      secondary: ""
+      primary: "#582f84"
+      secondary: "purple"
       neutral: ""
   typography:
     font: sans
     size: md
+    pack: academic
   layout:
     radius: md
     spacing: comfortable
@@ -24,7 +25,7 @@ hugoblox:
     enable: true
     style: navbar
     sticky: true
-    align: center
+    align: right
     search: true
     theme_toggle: true
   footer:

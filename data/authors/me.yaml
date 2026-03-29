@@ -34,10 +34,11 @@ interests:
   - "History and Philosophy of Physics"
   - "Feminist Epistemology"
 education:
-  - degree: "PhD History and Philosophy of Science"
+  - degree: "PhD"
+    discipline: "History and Philosophy of Science"
     institution: "University of Notre Dame"
-    start: "2013-09-01"
-    end: "2019-06-30"
+    # start: "2013-09-01"
+    # end: "2019-06-30"
     summary: "Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.\n"
     button:
       text: "Download dissertation"
@@ -45,8 +46,9 @@ education:
       icon: "hero/arrow-down-tray"
   - degree: "BS Physics"
     institution: "MIT"
-    start: "2009-09-01"
-    end: "2013-05-31"
+    date: "2013"
+    # start: "2009-09-01"
+    # end: "2013-05-31"
 experience:
   - role: "Senior AI Research Scientist"
     org: "Meta AI"
@@ -62,14 +64,6 @@ experience:
     end: "2019-12-31"
     summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
 skills:
-  - name: "Technical Skills"
-    items:
-      - label: "Python"
-        level: 5
-      - label: "Machine Learning"
-        level: 5
-      - label: "Cloud Computing"
-        level: 4
   - name: "Research & Communication"
     items:
       - label: "Academic Writing"
@@ -78,9 +72,3 @@ skills:
         level: 4
       - label: "Grant Proposals"
         level: 4
-awards:
-  - title: "Best Paper Award"
-    awarder: "NeurIPS"
-    date: "2022-12-01"
-    summary: "Awarded for groundbreaking work on efficient training of large models."
-    icon: "hero/trophy"
