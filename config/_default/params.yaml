@@ -8,10 +8,10 @@ hugoblox:
     organization: University of Bristol
   theme:
     mode: system
-    pack: synthwave
+    pack: minimal
     colors:
-      primary: ""
-      secondary: ""
+      primary: "#582f84"
+      secondary: "purple"
       neutral: ""
   typography:
     font: sans
@@ -24,7 +24,7 @@ hugoblox:
     enable: true
     style: navbar
     sticky: true
-    align: center
+    align: right
     search: true
     theme_toggle: true
   footer:

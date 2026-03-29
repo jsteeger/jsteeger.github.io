@@ -1,0 +1,11 @@
+/* Override CSS variables */
+:root {
+  --custom-var: value;
+}
+
+/* Custom classes */
+/* Purple #582f84 */
+
+#about-me {
+  padding: 40px 0px;
+}
