@@ -46,7 +46,7 @@ sections:
     As: "section-2c11bbf5"
   - block: "collection"
     content:
-      title: "Featured Publications"
+      title: "Featured Papers"
       filters:
         folders:
           - "publications"
@@ -59,7 +59,7 @@ sections:
     As: "section-f9f06406"
   - block: "collection"
     content:
-      title: "Recent Publications"
+      title: "Recent Papers"
       text: ""
       filters:
         folders:
@@ -68,6 +68,7 @@ sections:
     design:
       view: "citation"
     ue: "section-4f48622d"
+    id: "papers-recent"
     As: "section-f2f7e1a9"
   - block: "collection"
     content:
