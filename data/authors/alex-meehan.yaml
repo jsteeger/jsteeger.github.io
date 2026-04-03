@@ -1,0 +1,36 @@
+schema: hugoblox/author/v1
+slug: alex-meehan
+is_owner: false
+name:
+  display: "Alexander Meehan"
+  given: "Alexander"
+  family: "Meehan"
+  alternate: ""
+  pronunciation: ""
+  pronouns: "he/him"
+postnominals:
+  - "PhD"
+status:
+  icon: ""
+role: "Assistant Professor"
+bio: "Alexander Meehan is a philosopher focusing on topics in philosophy of physics, philosophy of probability, formal epistemology, and philosophy of science.\n"
+
+affiliations:
+  - name: "University of Wisconsin-Madison"
+    url: "https://philosophy.wisc.edu/staff/meehan-alexander/"
+
+links:
+  - icon: "at-symbol"
+    url: "mailto:ameehan4@wisc.edu"
+    label: "E-mail Me"
+  - icon: "academicons/philpapers"
+    url: "https://philpeople.org/profiles/alexander-meehan"
+  - icon: "academicons/google-scholar"
+    url: "https://scholar.google.com/citations?hl=en&user=oRa_TogAAAAJ"
+  - icon: "academicons/orcid"
+    url: "https://orcid.org/0000-0003-0501-3858"
+
+interests:
+  - "Quantum Foundations"
+  - "Philosophy of Probability"
+  - "Formal Epistemology"

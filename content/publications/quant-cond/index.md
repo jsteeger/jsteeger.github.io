@@ -1,12 +1,12 @@
 ---
-title: "Is the classical limit “singular”?"
+title: "An accuracy-based approach to quantum conditionalization"
 authors:
+- alex-meehan
 - me
-- ben-f
-author_notes:
-- "as Jeremy Steeger"
+# author_notes:
 # - "Equal contribution"
-date: "2021-09-01T00:00:00Z"
+# - "Equal contribution"
+date: "2023-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,16 +17,18 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Studies in History and Philosophy of Science, 88*(4)"
+publication: "*The British Journal for the Philosophy of Science*"
 publication_short: ""
 
-abstract: "We argue against claims that the classical ℏ → 0 limit is “singular” in a way that frustrates an eliminative reduction of classical to quantum physics. We show one precise sense in which quantum mechanics and scaling behavior can be used to recover classical mechanics exactly, without making prior reference to the classical theory. To do so, we use the tools of strict deformation quantization, which provides a rigorous way to capture the ℏ → 0 limit. We then use the tools of category theory to demonstrate one way that this reduction is explanatory: it illustrates a sense in which the structure of quantum mechanics determines that of classical mechanics." 
+abstract: "A core tenet of Bayesian epistemology is that rational agents update by conditionalization. Accuracy arguments in favour of this norm are well-known. Meanwhile, scholars working in quantum probability and quantum state estimation have proposed multiple updating rules, all of which look prima facie like analogues of Bayesian conditionalization. The most common are Lüders conditionalization and Bayesian mean estimation (BME). Some authors also endorse a lesser-known alternative that we call retrodiction. We show how one can view Lüders and BME as complementary rules, and we give expected accuracy and accuracy dominance arguments for both. By contrast, we find that retrodiction is accuracy-dominated, at least on many measures of accuracy."
 
 # Summary. An optional shortened abstract.
-summary: 
+summary:
 
 tags:
 - Quantum Foundations
+- Philosophy of Probability
+- Epistemology (Formal and Feminist)
 featured: false
 
 hugoblox:
@@ -35,12 +37,12 @@ hugoblox:
 
 links:
   - type: doi
-    id: 10.1016/j.shpsa.2021.05.007
-    url: https://doi.org/10.1016/j.shpsa.2021.05.007
+    id: 10.1086/728049
+    url: https://doi.org/10.1086/728049
     icon: /academicons/doi
   - type: preprint
     provider: PhilPapers
-    url: https://philpapers.org/rec/STEITC-7
+    url: https://philpapers.org/rec/MEEAAA-2
     icon: /academicons/philpapers
   # - type: poster
   #   url: ""
@@ -56,8 +58,8 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  # caption: ''
-  # focal_point: ""
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
   preview_only: true
 
 # Associated Projects (optional).

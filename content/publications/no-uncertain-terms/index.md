@@ -23,13 +23,13 @@ hugoblox:
   # ids:
   #   doi:
 links:
-  - type: pdf
-    url: https://philsci-archive.pitt.edu/28291/1/everett-chance-v2-pitt.pdf
   - type: preprint
     provider: PhilSci-Archive
     id: 28291
     url: https://philsci-archive.pitt.edu/id/eprint/28291
     icon: hero/link
+  - type: pdf
+    url: https://philsci-archive.pitt.edu/28291/1/everett-chance-v2-pitt.pdf
   # - type: code
   #   url: https://github.com/HugoBlox/kit
   # - type: slides

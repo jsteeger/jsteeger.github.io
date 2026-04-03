@@ -31,8 +31,6 @@ featured: false
 hugoblox:
 
 links:
-  - type: pdf
-    url: /publications/one-world/one-world.pdf
   - type: doi
     id: 10.1007/s11229-022-03499-z
     url: https://doi.org/10.1007/s11229-022-03499-z

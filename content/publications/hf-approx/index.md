@@ -33,8 +33,8 @@ hugoblox:
     # doi: 10.1007/s10670-022-00584-0
 
 links:
-  - type: pdf
-    url: /publications/hf-approx/hf-approx.pdf
+  # - type: pdf
+  #   url: /publications/hf-approx/hf-approx.pdf
   - type: doi
     id: 10.1007/s10670-022-00584-0
     url: https://doi.org/10.1007/s10670-022-00584-0
