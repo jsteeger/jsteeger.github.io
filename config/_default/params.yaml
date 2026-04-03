@@ -23,8 +23,8 @@ hugoblox:
     # Site meta description for search engines and social sharing
     description: "Jer Steeger is a historian and philosopher of physics taking a pluralist approach to issues in quantum foundations and physics education research."
     # Social accounts (used for meta tags like Twitter Cards)
-    social:
-      twitter: "MakeOwnable" # Twitter/X handle for Twitter Cards (without @)
+    # social:
+    #   twitter: "MakeOwnable" # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -107,7 +107,7 @@ hugoblox:
   footer:
     # Footer style variant
     style: minimal # minimal | columns | centered
-    language_switcher: true
+    language_switcher: false
     # Custom footer text (HTML supported)
     text: ""
 
@@ -148,7 +148,7 @@ hugoblox:
       allow:
         - /
       disallow: []
-      note: "Guidance for AI crawlers - customize to match your public content."
+      note: ""
       contact: ""
 
   # ────────────────────────────────────────────────────────────────────────────
@@ -164,7 +164,7 @@ hugoblox:
       enable: true
     # Reading time estimates
     reading_time:
-      enable: true
+      enable: false
     # Academic citations
     citations:
       style: apa # apa | mla | chicago | ieee

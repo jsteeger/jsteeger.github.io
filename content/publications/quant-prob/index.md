@@ -16,7 +16,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics, 66*"
-publication_short: ""
+publication_short: "*SHPS Part B, 66*"
 
 abstract: "I defend an analog of probabilism that characterizes rationally coherent estimates for chances. Specifically, I demonstrate the following accuracy-dominance result for stochastic theories in the C*-algebraic framework: supposing an assignment of chance values is possible if and only if it is given by a pure state on a given algebra, your estimates for chances avoid accuracy-dominance if and only if they are given by a state on that algebra."
 

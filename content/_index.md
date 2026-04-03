@@ -1,7 +1,7 @@
 ---
 title: ""
 summary: ""
-date: "2022-10-24"
+date: "2026-04-03"
 type: "landing"
 design:
   spacing: "6rem"
@@ -54,12 +54,13 @@ sections:
     design:
       view: "article-grid"
       columns: 2
+      fill_image: false
     ue: "section-papers"
     id: "papers"
     As: "section-f9f06406"
   - block: "collection"
     content:
-      title: "Selected Papers"
+      title: "Recent Papers"
       text: ""
       filters:
         folders:

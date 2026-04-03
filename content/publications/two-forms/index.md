@@ -16,7 +16,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*The British Journal for the Philosophy of Science, 72*(4)"
-publication_short: "BJPS"
+publication_short: "*BJPS, 72*"
 
 abstract: Recently, there has been some discussion of how Dutch Book arguments might be used to demonstrate the rational incoherence of certain hidden variable models of quantum theory. In this paper, we argue that the 'form of inconsistency' underlying this alleged irrationality is deeply and comprehensively related to the more familiar 'inconsistency' phenomenon of contextuality. Our main result is that the hierarchy of contextuality due to Abramsky and Brandenburger corresponds to a hierarchy of additivity/convexity-violations which yields formal Dutch Books of different strengths. We then use this result to provide a partial assessment of whether these formal Dutch Books can be interpreted normatively. 
 

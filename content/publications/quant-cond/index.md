@@ -18,7 +18,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*The British Journal for the Philosophy of Science*"
-publication_short: ""
+publication_short: "*BJPS*"
 
 abstract: "A core tenet of Bayesian epistemology is that rational agents update by conditionalization. Accuracy arguments in favour of this norm are well-known. Meanwhile, scholars working in quantum probability and quantum state estimation have proposed multiple updating rules, all of which look prima facie like analogues of Bayesian conditionalization. The most common are Lüders conditionalization and Bayesian mean estimation (BME). Some authors also endorse a lesser-known alternative that we call retrodiction. We show how one can view Lüders and BME as complementary rules, and we give expected accuracy and accuracy dominance arguments for both. By contrast, we find that retrodiction is accuracy-dominated, at least on many measures of accuracy."
 

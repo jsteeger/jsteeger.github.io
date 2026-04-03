@@ -17,7 +17,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Reviews in Mathematical Physics, 33*(8)"
-publication_short: "RMP"
+publication_short: "*RMP, 33*(8)"
 
 abstract: Bundles of C*-algebras can be used to represent limits of physical theories whose algebraic structure depends on the value of a parameter. The primary example is the ℏ → 0 limit of the C*-algebras of physical quantities in quantum theories, represented in the framework of strict deformation quantization. In this paper, we understand such limiting procedures in terms of the extension of a bundle of C*-algebras to some limiting value of a parameter. We prove existence and uniqueness results for such extensions. Moreover, we show that such extensions are functorial for the C*-product, dynamical automorphisms, and the Lie bracket (in the ℏ → 0 case) on the fiber C*-algebras. 
 

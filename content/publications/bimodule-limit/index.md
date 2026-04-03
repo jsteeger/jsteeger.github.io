@@ -15,7 +15,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Reviews in Mathematical Physics, 36*(10)"
-publication_short: "*RMP, 36*"
+publication_short: "*RMP, 36*(10)"
 
 abstract: Hilbert bimodules are morphisms between C*-algebraic models of quantum systems, while symplectic dual pairs are morphisms between Poisson geometric models of classical systems. Both of these morphisms preserve representation-theoretic structures of the relevant types of models. Previously, it has been shown that one can functorially associate certain symplectic dual pairs to Hilbert bimodules through strict deformation quantization. We show that, in the inverse direction, strict deformation quantization also allows one to functorially take the classical limit of a Hilbert bimodule to reconstruct a symplectic dual pair.
 

@@ -18,7 +18,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Studies in History and Philosophy of Science, 88*(4)"
-publication_short: ""
+publication_short: "*SHPS, 88*(4)"
 
 abstract: "We argue against claims that the classical ℏ → 0 limit is “singular” in a way that frustrates an eliminative reduction of classical to quantum physics. We show one precise sense in which quantum mechanics and scaling behavior can be used to recover classical mechanics exactly, without making prior reference to the classical theory. To do so, we use the tools of strict deformation quantization, which provides a rigorous way to capture the ℏ → 0 limit. We then use the tools of category theory to demonstrate one way that this reduction is explanatory: it illustrates a sense in which the structure of quantum mechanics determines that of classical mechanics." 
 
