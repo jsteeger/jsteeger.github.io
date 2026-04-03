@@ -1,0 +1,35 @@
+schema: hugoblox/author/v1
+slug: james-read
+is_owner: false
+name:
+  display: "James Read"
+  given: "James"
+  family: "Read"
+  alternate: ""
+  pronunciation: ""
+  pronouns: "he/him"
+postnominals:
+  - "PhD"
+status:
+  icon: ""
+role: "Associate Professor"
+bio: "James Read is a philosopher of physics focusing on the on the foundations of spacetime theories, as well as quantum mechanics.\n"
+
+affiliations:
+  - name: "University of Oxford"
+    url: "https://www.philosophy.ox.ac.uk/people/james-read"
+
+links:
+  - icon: "at-symbol"
+    url: "mailto:james.read@philosophy.ox.ac.uk"
+    label: "E-mail Me"
+  - icon: "academicons/philpapers"
+    url: "https://philpeople.org/profiles/james-read"
+  - icon: "academicons/google-scholar"
+    url: "https://scholar.google.com/citations?user=VaoBs1gAAAAJ&hl=en"
+  - icon: "academicons/orcid"
+    url: "https://orcid.org/0000-0003-2962-6835"
+
+interests:
+  - "Foundations of Spacetime Theories"
+  - "Quantum Foundations"

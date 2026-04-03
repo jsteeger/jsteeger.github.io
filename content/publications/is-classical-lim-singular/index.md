@@ -1,10 +1,12 @@
 ---
-title: "One world is (probably) just as good as many"
+title: "Is the classical limit “singular”?"
 authors:
 - me
-# author_notes:
+- ben-f
+author_notes:
+- "as Jeremy Steeger"
 # - "Equal contribution"
-date: "2022-09-01T00:00:00Z"
+date: "2021-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -15,31 +17,32 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Synthese, 200*(2)"
+publication: "*Studies in History and Philosophy of Science, 88*(4)"
 publication_short: ""
 
-abstract: One of our most sophisticated accounts of objective chance in quantum mechanics involves the Deutsch–Wallace theorem, which uses state-space symmetries to justify agents' use of the Born rule when the quantum state is known. But Wallace argues that this theorem requires an Everettian approach to measurement. I find that this argument is unsound. I demonstrate a counter-example by applying the Deutsch–Wallace theorem to the de Broglie–Bohm pilot-wave theory.
+abstract: "We argue against claims that the classical ℏ → 0 limit is “singular” in a way that frustrates an eliminative reduction of classical to quantum physics. We show one precise sense in which quantum mechanics and scaling behavior can be used to recover classical mechanics exactly, without making prior reference to the classical theory. To do so, we use the tools of strict deformation quantization, which provides a rigorous way to capture the ℏ → 0 limit. We then use the tools of category theory to demonstrate one way that this reduction is explanatory: it illustrates a sense in which the structure of quantum mechanics determines that of classical mechanics." 
 
 # Summary. An optional shortened abstract.
-summary: I argue that we can use symmetries of the quantum state space to derive chance values in the de Broglie–Bohm pilot-wave theory.
+summary: 
 
 tags:
 - Quantum Foundations
-- Philosophy of Probability
 featured: false
 
 hugoblox:
+  ids:
+    # doi: 10.1007/s10670-022-00584-0
 
 links:
   - type: pdf
-    url: /publications/one-world/one-world.pdf
+    url: /publications/is-classical-lim-singular/singular.pdf
   - type: doi
-    id: 10.1007/s11229-022-03499-z
-    url: https://doi.org/10.1007/s11229-022-03499-z
+    id: 10.1016/j.shpsa.2021.05.007
+    url: https://doi.org/10.1016/j.shpsa.2021.05.007
     icon: /academicons/doi
   - type: preprint
     provider: PhilPapers
-    url: https://philpapers.org/rec/STEOWI-3
+    url: https://philpapers.org/rec/STEITC-7
     icon: /academicons/philpapers
   # - type: poster
   #   url: ""
@@ -55,7 +58,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: true
 

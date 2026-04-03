@@ -2,7 +2,7 @@
 title: Everettian chance in no uncertain terms
 authors:
   - me
-  - James Read
+  - james-read
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
@@ -14,7 +14,10 @@ publication: ""
 publication_short: ""
 abstract: "The current landscape of views on the role of chance in the Everett interpretation is rocky. Everettians (Wallace 2012, Sebens and Carroll 2018, McQueen and Vaidman 2019) agree that chance values should be derived using principles governing uncertain or partial belief, but cannot agree on how. Critics (Baker 2007, Dawid and Thébault 2015, Mandolesi 2019) maintain that any such approach is circular. We smooth the landscape by shifting focus from what Everettians take to be uncertain to what they should think is certain: namely, the conditions under which branches are isolated. Our approach to isolation resolves the main tensions among the different Everettian chance derivations while clarifying how they avoid circularity."
 summary: "We unify Everettian accounts of chance by focusing on the conditions under which branches are isolated."
-tags: [Quantum Foundations]
+tags:
+- Quantum Foundations
+- Philosophy of Probability
+- Epistemology (Formal and Feminist)
 featured: true
 hugoblox:
   # ids:

@@ -1,0 +1,35 @@
+schema: hugoblox/author/v1
+slug: ben-f
+is_owner: false
+name:
+  display: "Benjamin Feintzeig"
+  given: "Benjamin"
+  family: "Feintzeig"
+  alternate: ""
+  pronunciation: ""
+  pronouns: "he/him"
+postnominals:
+  - "PhD"
+status:
+  icon: ""
+role: "Associate Professor"
+bio: "Benjamin Feintzeig is a philosopher of physics focusing on the conceptual and mathematical foundations of physics, and the broader impacts of philosophy of physics on general issues in philosophy of science including interpreting physical theories, scientific representation, and scientific explanation.\n"
+
+affiliations:
+  - name: "University of Washington"
+    url: "https://phil.washington.edu/people/benjamin-h-feintzeig"
+
+links:
+  - icon: "at-symbol"
+    url: "mailto:bfeintze@uw.edu"
+    label: "E-mail Me"
+  - icon: "academicons/philpapers"
+    url: "https://philpeople.org/profiles/benjamin-feintzeig"
+  - icon: "academicons/google-scholar"
+    url: "https://scholar.google.co.uk/citations?user=F9IsNasAAAAJ&hl=en&oi=sra"
+  - icon: "academicons/orcid"
+    url: "https://orcid.org/0000-0001-7692-5155"
+
+interests:
+  - "Quantum Foundations"
+  - "Philosophy of Science"
