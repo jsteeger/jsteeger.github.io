@@ -1,15 +1,13 @@
 ---
-title: "Is the classical limit “singular”?"
+title: "Two Forms of Inconsistency in Quantum Foundations"
 authors:
 - me
-- ben-f
 author_notes:
-- "as Jeremy Steeger"
-# - "Equal contribution"
-date: "2026-04-03T00:00:00Z"
+ - "as Jeremy Steeger"
+date: "2021-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2026-04-02T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,31 +15,29 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Studies in History and Philosophy of Science, 88*(4)"
-publication_short: ""
+publication: "*The British Journal for the Philosophy of Science, 72*(4)"
+publication_short: "BJPS"
 
-abstract: "We argue against claims that the classical ℏ → 0 limit is “singular” in a way that frustrates an eliminative reduction of classical to quantum physics. We show one precise sense in which quantum mechanics and scaling behavior can be used to recover classical mechanics exactly, without making prior reference to the classical theory. To do so, we use the tools of strict deformation quantization, which provides a rigorous way to capture the ℏ → 0 limit. We then use the tools of category theory to demonstrate one way that this reduction is explanatory: it illustrates a sense in which the structure of quantum mechanics determines that of classical mechanics." 
+abstract: Recently, there has been some discussion of how Dutch Book arguments might be used to demonstrate the rational incoherence of certain hidden variable models of quantum theory. In this paper, we argue that the 'form of inconsistency' underlying this alleged irrationality is deeply and comprehensively related to the more familiar 'inconsistency' phenomenon of contextuality. Our main result is that the hierarchy of contextuality due to Abramsky and Brandenburger corresponds to a hierarchy of additivity/convexity-violations which yields formal Dutch Books of different strengths. We then use this result to provide a partial assessment of whether these formal Dutch Books can be interpreted normatively. 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary:
 
 tags:
 - Quantum Foundations
-- Emergence and Reduction
+- Philosophy of Probability
 featured: false
 
 hugoblox:
-  ids:
-    # doi: 10.1007/s10670-022-00584-0
 
 links:
   - type: doi
-    id: 10.1016/j.shpsa.2021.05.007
-    url: https://doi.org/10.1016/j.shpsa.2021.05.007
+    id: 10.1093/bjps/axy071
+    url: https://doi.org/10.1093/bjps/axy071
     icon: /academicons/doi
   - type: preprint
     provider: PhilPapers
-    url: https://philpapers.org/rec/STEITC-7
+    url: https://philpapers.org/rec/STETFO-40
     icon: /academicons/philpapers
   # - type: poster
   #   url: ""
@@ -57,7 +53,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  # caption: ''
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   # focal_point: ""
   preview_only: true
 

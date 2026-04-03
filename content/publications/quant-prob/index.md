@@ -1,15 +1,13 @@
 ---
-title: "Is the classical limit “singular”?"
+title: "Two Forms of Inconsistency in Quantum Foundations"
 authors:
 - me
-- ben-f
 author_notes:
-- "as Jeremy Steeger"
-# - "Equal contribution"
-date: "2026-04-03T00:00:00Z"
+ - "as Jeremy Steeger"
+date: "2021-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2026-04-02T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,31 +15,29 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Studies in History and Philosophy of Science, 88*(4)"
+publication: "*Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics, 66*"
 publication_short: ""
 
-abstract: "We argue against claims that the classical ℏ → 0 limit is “singular” in a way that frustrates an eliminative reduction of classical to quantum physics. We show one precise sense in which quantum mechanics and scaling behavior can be used to recover classical mechanics exactly, without making prior reference to the classical theory. To do so, we use the tools of strict deformation quantization, which provides a rigorous way to capture the ℏ → 0 limit. We then use the tools of category theory to demonstrate one way that this reduction is explanatory: it illustrates a sense in which the structure of quantum mechanics determines that of classical mechanics." 
+abstract: "I defend an analog of probabilism that characterizes rationally coherent estimates for chances. Specifically, I demonstrate the following accuracy-dominance result for stochastic theories in the C*-algebraic framework: supposing an assignment of chance values is possible if and only if it is given by a pure state on a given algebra, your estimates for chances avoid accuracy-dominance if and only if they are given by a state on that algebra."
 
 # Summary. An optional shortened abstract.
-summary: 
+summary:
 
 tags:
 - Quantum Foundations
-- Emergence and Reduction
+- Philosophy of Probability
 featured: false
 
 hugoblox:
-  ids:
-    # doi: 10.1007/s10670-022-00584-0
 
 links:
   - type: doi
-    id: 10.1016/j.shpsa.2021.05.007
-    url: https://doi.org/10.1016/j.shpsa.2021.05.007
+    id: 10.1016/j.shpsb.2018.10.004
+    url: https://doi.org/10.1016/j.shpsb.2018.10.004
     icon: /academicons/doi
   - type: preprint
     provider: PhilPapers
-    url: https://philpapers.org/rec/STEITC-7
+    url: https://philpapers.org/rec/STEPFS-5
     icon: /academicons/philpapers
   # - type: poster
   #   url: ""
@@ -57,7 +53,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  # caption: ''
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   # focal_point: ""
   preview_only: true
 

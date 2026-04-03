@@ -1,15 +1,14 @@
 ---
-title: "Is the classical limit “singular”?"
+title: "Extensions of bundles of C*-algebras"
 authors:
 - me
 - ben-f
 author_notes:
-- "as Jeremy Steeger"
-# - "Equal contribution"
-date: "2026-04-03T00:00:00Z"
+ - "as Jeremy Steeger"
+date: "2021-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2026-04-02T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,13 +16,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Studies in History and Philosophy of Science, 88*(4)"
-publication_short: ""
+publication: "*Reviews in Mathematical Physics, 33*(8)"
+publication_short: "RMP"
 
-abstract: "We argue against claims that the classical ℏ → 0 limit is “singular” in a way that frustrates an eliminative reduction of classical to quantum physics. We show one precise sense in which quantum mechanics and scaling behavior can be used to recover classical mechanics exactly, without making prior reference to the classical theory. To do so, we use the tools of strict deformation quantization, which provides a rigorous way to capture the ℏ → 0 limit. We then use the tools of category theory to demonstrate one way that this reduction is explanatory: it illustrates a sense in which the structure of quantum mechanics determines that of classical mechanics." 
+abstract: Bundles of C*-algebras can be used to represent limits of physical theories whose algebraic structure depends on the value of a parameter. The primary example is the ℏ → 0 limit of the C*-algebras of physical quantities in quantum theories, represented in the framework of strict deformation quantization. In this paper, we understand such limiting procedures in terms of the extension of a bundle of C*-algebras to some limiting value of a parameter. We prove existence and uniqueness results for such extensions. Moreover, we show that such extensions are functorial for the C*-product, dynamical automorphisms, and the Lie bracket (in the ℏ → 0 case) on the fiber C*-algebras. 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary:
 
 tags:
 - Quantum Foundations
@@ -31,18 +30,16 @@ tags:
 featured: false
 
 hugoblox:
-  ids:
-    # doi: 10.1007/s10670-022-00584-0
 
 links:
   - type: doi
-    id: 10.1016/j.shpsa.2021.05.007
-    url: https://doi.org/10.1016/j.shpsa.2021.05.007
+    id: 10.1142/S0129055X21500252
+    url: https://doi.org/10.1142/S0129055X21500252
     icon: /academicons/doi
   - type: preprint
-    provider: PhilPapers
-    url: https://philpapers.org/rec/STEITC-7
-    icon: /academicons/philpapers
+    provider: arxiv
+    url: https://doi.org/10.48550/arXiv.2102.11993
+    icon: /academicons/arxiv
   # - type: poster
   #   url: ""
   # - type: project
@@ -57,7 +54,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  # caption: ''
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   # focal_point: ""
   preview_only: true
 

@@ -1,15 +1,12 @@
 ---
-title: "Is the classical limit “singular”?"
+title: "Classical limits of Hilbert bimodules as symplectic dual pairs"
 authors:
-- me
 - ben-f
-author_notes:
-- "as Jeremy Steeger"
-# - "Equal contribution"
-date: "2026-04-03T00:00:00Z"
+- me
+date: "2024-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2026-04-02T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,13 +14,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Studies in History and Philosophy of Science, 88*(4)"
-publication_short: ""
+publication: "*Reviews in Mathematical Physics, 36*(10)"
+publication_short: "*RMP, 36*"
 
-abstract: "We argue against claims that the classical ℏ → 0 limit is “singular” in a way that frustrates an eliminative reduction of classical to quantum physics. We show one precise sense in which quantum mechanics and scaling behavior can be used to recover classical mechanics exactly, without making prior reference to the classical theory. To do so, we use the tools of strict deformation quantization, which provides a rigorous way to capture the ℏ → 0 limit. We then use the tools of category theory to demonstrate one way that this reduction is explanatory: it illustrates a sense in which the structure of quantum mechanics determines that of classical mechanics." 
+abstract: Hilbert bimodules are morphisms between C*-algebraic models of quantum systems, while symplectic dual pairs are morphisms between Poisson geometric models of classical systems. Both of these morphisms preserve representation-theoretic structures of the relevant types of models. Previously, it has been shown that one can functorially associate certain symplectic dual pairs to Hilbert bimodules through strict deformation quantization. We show that, in the inverse direction, strict deformation quantization also allows one to functorially take the classical limit of a Hilbert bimodule to reconstruct a symplectic dual pair.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary:
 
 tags:
 - Quantum Foundations
@@ -31,18 +28,16 @@ tags:
 featured: false
 
 hugoblox:
-  ids:
-    # doi: 10.1007/s10670-022-00584-0
 
 links:
   - type: doi
-    id: 10.1016/j.shpsa.2021.05.007
-    url: https://doi.org/10.1016/j.shpsa.2021.05.007
+    id: 10.1142/s0129055x24500260
+    url: https://doi.org/10.1142/s0129055x24500260
     icon: /academicons/doi
   - type: preprint
-    provider: PhilPapers
-    url: https://philpapers.org/rec/STEITC-7
-    icon: /academicons/philpapers
+    provider: arxiv
+    url: https://arxiv.org/abs/2403.08060
+    icon: /academicons/arxiv
   # - type: poster
   #   url: ""
   # - type: project
@@ -57,7 +52,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  # caption: ''
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   # focal_point: ""
   preview_only: true
 
