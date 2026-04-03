@@ -1,0 +1,36 @@
+schema: hugoblox/author/v1
+slug: nic-teh
+is_owner: false
+name:
+  display: "Nicholas Teh"
+  given: "Nicholas"
+  family: "Teh"
+  alternate: ""
+  pronunciation: ""
+  pronouns: "he/him"
+postnominals:
+  - "PhD"
+status:
+  icon: ""
+role: "Associate Professor"
+bio: "Nicholas Teh is a philosopher of physics focusing on questions concerning the philosophical and mathematical foundations of gauge symmetry, spacetime theories, and quantum field theory.\n"
+
+affiliations:
+  - name: "University of Notre Dame"
+    url: "https://philosophy.nd.edu/people/faculty/nicholas-teh/"
+
+links:
+  - icon: "at-symbol"
+    url: "mailto:teh.2@nd.edu"
+    label: "E-mail Me"
+  - icon: "academicons/philpapers"
+    url: "https://philpeople.org/profiles/nicholas-teh"
+  # - icon: "academicons/google-scholar"
+  #   url: ""
+  # - icon: "academicons/orcid"
+  #   url: ""
+
+interests:
+  - "Quantum Foundations"
+  - "Philosophy of Probability"
+  - "Formal Epistemology"

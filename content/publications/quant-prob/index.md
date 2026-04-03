@@ -1,10 +1,10 @@
 ---
-title: "Two Forms of Inconsistency in Quantum Foundations"
+title: "Probabilism for stochastic theories"
 authors:
 - me
 author_notes:
  - "as Jeremy Steeger"
-date: "2021-09-01T00:00:00Z"
+date: "2019-05-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-04-02T00:00:00Z"

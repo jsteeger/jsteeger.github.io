@@ -2,6 +2,7 @@
 title: "Two Forms of Inconsistency in Quantum Foundations"
 authors:
 - me
+- nic-teh
 author_notes:
  - "as Jeremy Steeger"
 date: "2021-09-01T00:00:00Z"
