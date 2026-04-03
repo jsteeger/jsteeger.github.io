@@ -32,14 +32,14 @@ sections:
     As: "section-909bf45f"
   - block: "markdown"
     content:
-      title: "📚 My Research"
+      title: "My Research"
       subtitle: ""
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Hey there! I'm a historian and philosopher of physics taking a pluralist approach to issues in quantum foundations and physics education research. In recent years, my work has focused on the interpretation of quantum probability and issues of reduction and emergence in the relationship between classical and quantum mechanics.
+        
+        My current project, <i>Credence and Chance in a Pluralist Approach to Quantum Theories,</i> develops novel technical results about the probabilities appearing in quantum mechanics that bridge and support several different interpretations of what that theory says about reality. The project also explores the utility of this pluralist approach for upper-level physics education, in collaboration with Rachel E. Scherr. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        Feel free to drop me a line to say hi! 😸
     design:
       columns: "1"
     ue: "section-73c9c95d"
@@ -81,34 +81,34 @@ sections:
     ue: "section-talks"
     id: "talks"
     As: "section-a4bf895f"
-  - block: "collection"
-    content:
-      title: "Recent News"
-      subtitle: ""
-      text: ""
-      page_type: "blog"
-      count: 10
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      offset: 0
-      order: "desc"
-    design:
-      view: "card"
-      spacing:
-        padding:
-          - 0
-          - 0
-          - 0
-          - 0
-    ue: "section-news"
-    id: "news"
-    As: "section-68420036"
+  # - block: "collection"
+  #   content:
+  #     title: "Recent News"
+  #     subtitle: ""
+  #     text: ""
+  #     page_type: "blog"
+  #     count: 10
+  #     filters:
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     offset: 0
+  #     order: "desc"
+  #   design:
+  #     view: "card"
+  #     spacing:
+  #       padding:
+  #         - 0
+  #         - 0
+  #         - 0
+  #         - 0
+  #   ue: "section-news"
+  #   id: "news"
+  #   As: "section-68420036"
   - block: "cta-card"
     demo: true
     content:
