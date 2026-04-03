@@ -59,7 +59,7 @@ sections:
     As: "section-f9f06406"
   - block: "collection"
     content:
-      title: "Recent Papers"
+      title: "Selected Papers"
       text: ""
       filters:
         folders:
@@ -68,7 +68,7 @@ sections:
     design:
       view: "citation"
     ue: "section-4f48622d"
-    id: "papers-recent"
+    id: "papers-selected"
     As: "section-f2f7e1a9"
   - block: "collection"
     content:
