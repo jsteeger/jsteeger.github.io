@@ -1,0 +1,33 @@
+schema: hugoblox/author/v1
+slug: rachel-e-scherr
+is_owner: false
+name:
+  display: "Rachel E. Scherr"
+  given: "Rachel"
+  family: "Scherr"
+  alternate: ""
+  pronunciation: ""
+  pronouns: "she/her"
+postnominals:
+  - "PhD"
+status:
+  icon: ""
+role: "Assistant Professor"
+bio: "Rachel E. Scherr is a physics education researcher focusing on energy learning and representations, application of video analysis methods to study physics classrooms, and physics education research community leadership.\n"
+
+affiliations:
+  - name: "University of Washington, Bothell"
+    url: "https://www.uwb.edu/faculty/rachel-scherr/"
+
+links:
+  - icon: "at-symbol"
+    url: "mailto:rescherr@uw.edu"
+    label: "E-mail Me"
+  - icon: "academicons/google-scholar"
+    url: "https://scholar.google.com/citations?user=fMCq4dsAAAAJ&hl=en"
+  - icon: "academicons/orcid"
+    url: "https://orcid.org/0000-0002-0962-6582"
+
+interests:
+  - "Physics Education Research"
+  - "Epistemology (Feminist)"
