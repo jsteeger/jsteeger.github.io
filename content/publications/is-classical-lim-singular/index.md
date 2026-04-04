@@ -7,6 +7,7 @@ author_notes:
 - "as Jeremy Steeger"
 # - "Equal contribution"
 date: "2021-08-01T00:00:00Z"
+math: true
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-04-02T00:00:00Z"
@@ -58,7 +59,7 @@ links:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   # caption: ''
-  # focal_point: ""
+  focal_point: "top"
   preview_only: true
 
 # Associated Projects (optional).

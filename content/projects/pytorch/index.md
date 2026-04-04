@@ -5,8 +5,6 @@ links:
   - type: site
     url: https://github.com/pytorch/pytorch
 tags:
-  - Hugo
-  - HugoBlox
   - Markdown
 ---
 

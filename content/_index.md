@@ -55,6 +55,7 @@ sections:
       view: "article-grid"
       columns: 2
       fill_image: false
+      show_read_time: false
     ue: "section-papers"
     id: "papers"
     As: "section-f9f06406"
