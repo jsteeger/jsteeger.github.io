@@ -52,8 +52,7 @@ image:
   focal_point: ""
   preview_only: false
   fill_image: false
-projects:
-  - internal-project
+projects: [credence-chance]
 slides: ""
 
 ---
