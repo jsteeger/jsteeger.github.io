@@ -6,6 +6,7 @@ authors:
 author_notes:
  - "as Jeremy Steeger"
 date: "2021-09-01T00:00:00Z"
+reading_time: false
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-04-02T00:00:00Z"

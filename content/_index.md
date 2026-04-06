@@ -81,6 +81,7 @@ sections:
           - "events"
     design:
       view: "card"
+      show_read_time: false
     ue: "section-talks"
     id: "talks"
     As: "section-a4bf895f"

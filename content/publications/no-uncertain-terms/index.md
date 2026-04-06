@@ -8,6 +8,8 @@ authors:
 # - "Equal contribution"
 date: 2026-04-02T00:00:00Z
 publishDate: 2017-01-01T00:00:00Z
+reading_time: false
+
 publication_types:
   - article
 publication: ""

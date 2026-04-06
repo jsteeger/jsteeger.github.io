@@ -4,6 +4,7 @@ authors:
 - ben-f
 - me
 date: "2024-03-12T00:00:00Z"
+reading_time: false
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-04-02T00:00:00Z"
