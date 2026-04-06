@@ -12,6 +12,7 @@ sections:
       text: ""
       button:
         text: "Download CV"
+        # Last updated: April 6, 2026
         url: "uploads/resume.pdf"
       headings:
         about: ""
