@@ -3,7 +3,7 @@ title: "Classical limits of Hilbert bimodules as symplectic dual pairs"
 authors:
 - ben-f
 - me
-date: "2024-09-01T00:00:00Z"
+date: "2024-03-12T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-04-02T00:00:00Z"
@@ -51,11 +51,11 @@ links:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
+image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  # focal_point: ""
-  # preview_only: true
-  # fill_image: false
+  focal_point: ""
+  preview_only: false
+  fill_image: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

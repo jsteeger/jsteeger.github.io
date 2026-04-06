@@ -5,7 +5,7 @@ authors:
 - nic-teh
 author_notes:
  - "as Jeremy Steeger"
-date: "2021-09-01T00:00:00Z"
+date: "2021-12-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-04-02T00:00:00Z"
@@ -56,7 +56,7 @@ links:
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   # focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
