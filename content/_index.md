@@ -38,7 +38,7 @@ sections:
       text: |-
         Hey there! I'm a historian and philosopher of physics taking a pluralist approach to issues in quantum foundations and physics education research. In recent years, my work has focused on the interpretation of quantum probability and issues of reduction and emergence in the relationship between classical and quantum mechanics.
         
-        My current project, <i>Credence and Chance in a Pluralist Approach to Quantum Theories,</i> develops novel technical results about the probabilities appearing in quantum mechanics that bridge and support several different interpretations of what that theory says about reality. The project also explores the utility of this pluralist approach for upper-level physics education, in collaboration with Rachel E. Scherr. 
+        My current project, [Credence and Chance in a Pluralist Approach to Quantum Theories,](/projects/credence-chance) develops novel technical results about the probabilities appearing in quantum mechanics that bridge and support several different interpretations of what that theory says about reality. The project also explores the utility of this pluralist approach for upper-level physics education, in collaboration with [Rachel E. Scherr.](/authors/rachel-e-scherr) 
 
         Feel free to drop me a line to say hi! 😸
     design:
