@@ -54,10 +54,12 @@ image:
   fill_image: false
 cover:
   style: "gradient" 
-  height: full
+  height: medium
   position:
     x: 50
     y: 50
+  fade:
+    enabled: false
 # projects:
 #   - credence-chance
 slides: ""
