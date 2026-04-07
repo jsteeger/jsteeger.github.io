@@ -51,7 +51,7 @@ links:
 # Link to your Markdown slides
 # slides: "example"
 
-projects:
-- credence-chance
+# projects:
+# - credence-chance
 ---
 

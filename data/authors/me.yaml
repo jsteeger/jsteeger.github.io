@@ -55,7 +55,7 @@ experience:
   - role: "British Academy International Fellow"
     org: "University of Bristol"
     start: "March 2024"
-    summary: "Work on the project <i>Crededence and Chance in a Pluralist Approach to Quantum Theory.</i>\n"
+    summary: "Work on the project [Credence and Chance in a Pluralist Approach to Quantum Theories.](/projects/credence-chance)\n"
     # button:
     #   text: "View project"
     #   url: "/"
@@ -63,7 +63,7 @@ experience:
   - role: "Affiliate Assistant Professor"
     org: "University of Washington, Bothell"
     start: "January 2026"
-    summary: "Work on the project <i>Physics, Philosophy, and Pedagogy</i> with Rachel E. Scherr.\n"
+    summary: "Work on the project [Physics, Philosophy, Pedagogy](/projects/ppp) with Rachel E. Scherr.\n"
     # button:
     #   text: "View project"
     #   url: "/"
