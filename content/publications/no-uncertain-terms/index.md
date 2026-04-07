@@ -54,8 +54,12 @@ image:
   fill_image: false
 cover:
   style: "gradient" 
-projects:
-  - credence-chance
+  height: full
+  position:
+    x: 50
+    y: 50
+# projects:
+#   - credence-chance
 slides: ""
 
 ---
