@@ -3,15 +3,12 @@ linkTitle: Hugo Blox
 title: Learn Hugo Blox in 10 minutes!
 date: 2025-09-24
 type: docs
-
-tags:
-  - Hugo Blox
-  - Course
-
+tags: []
 content_meta:
-  content_type: 'Course'
-  difficulty: 'Beginner'
-  prerequisites: ['Markdown']
+  content_type: Course
+  difficulty: Beginner
+  prerequisites:
+    - Markdown
   trending: false
 ---
 

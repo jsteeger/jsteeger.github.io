@@ -34,7 +34,7 @@ tags:
 featured: true
 
 image:
-  # caption: 'Presentation freedom with Markdown'
+  caption: "Jer, Rachel, and five students from Rachel's quantum mechanics course at APS 2026."
   focal_point: smart
 
 links:
