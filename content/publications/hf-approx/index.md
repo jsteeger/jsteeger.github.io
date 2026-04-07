@@ -20,7 +20,7 @@ publication_short: ""
 abstract: Hájek (2009) argues that probabilities cannot be the limits of relative frequencies in counterfactual infinite sequences. I argue for a different understanding of these limits, drawing on Norton's (2012) distinction between approximations (inexact descriptions of a target) and idealizations (separate models that bear analogies to the target). Then, I adapt Hájek's arguments to this new context. These arguments provide excellent reasons not to use hypothetical frequencies as idealizations, but no reason not to use them as approximations.
 
 # Summary. An optional shortened abstract.
-summary: I argue that we can cogently treat hypothetical frequencies as approximtions (inexact descriptions of a target) even though there are excellent reasons not to use them as idealizations (separate models that bear analogies to the target).
+summary: Hypothetical frequencies are great approximations (inexact descriptions of a target) but bad idealizations (separate models that bear analogies to the target).
 
 tags:
 - Philosophy of Probability
