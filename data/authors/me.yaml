@@ -19,8 +19,8 @@ bio: "Jer Steeger is a historian and philosopher of physics taking a pluralist a
 affiliations:
   - name: "University of Bristol"
     url: "https://research-information.bris.ac.uk/en/persons/jer-steeger/"
-  - name: "University of Washington"
-    url: "https://www.uwb.edu/faculty/jer-steeger/"
+  # - name: "University of Washington"
+  #   url: "https://www.uwb.edu/faculty/jer-steeger/"
 
 links:
   - icon: "at-symbol"

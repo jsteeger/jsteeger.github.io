@@ -50,8 +50,10 @@ links:
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
   fill_image: false
+cover:
+  style: "gradient" 
 projects:
   - credence-chance
 slides: ""

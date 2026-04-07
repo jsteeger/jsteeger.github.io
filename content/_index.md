@@ -6,38 +6,22 @@ type: "landing"
 design:
   spacing: "6rem"
 sections:
-  - block: "resume-biography-3"
+  - block: "resume-biography"
     content:
       username: "me"
-      text: ""
       button:
-        text: "Download CV"
-        # Last updated: April 6, 2026
-        url: "uploads/resume.pdf"
-      headings:
-        about: ""
-        education: ""
-        interests: ""
-    design:
-      background:
-        gradient_mesh:
-          enable: true
-      name:
-        size: "md"
-      avatar:
-        size: "medium"
-        shape: "circle"
-      id: "about-me"
-    ue: "section-85fd63c5"
-    id: "about-me"
-    As: "section-909bf45f"
+        text: "CV"
+        icon: /hero/arrow-down-tray
+        url: "/uploads/resume.pdf"
+    ue: "section-6-resume-biography"
+    As: "section-3c5142da"
   - block: "markdown"
     content:
       title: "My Research"
       subtitle: ""
       text: |-
         Hey there! I'm a historian and philosopher of physics taking a pluralist approach to issues in quantum foundations and physics education research. In recent years, my work has focused on the interpretation of quantum probability and issues of reduction and emergence in the relationship between classical and quantum mechanics.
-        
+
         My current project, [Credence and Chance in a Pluralist Approach to Quantum Theories,](/projects/credence-chance) develops novel technical results about the probabilities appearing in quantum mechanics that bridge and support several different interpretations of what that theory says about reality. The project also explores the utility of this pluralist approach for upper-level physics education, in collaboration with [Rachel E. Scherr.](/authors/rachel-e-scherr) 
 
         Feel free to drop me a line to say hi! 😸
@@ -85,34 +69,6 @@ sections:
     ue: "section-talks"
     id: "talks"
     As: "section-a4bf895f"
-  # - block: "collection"
-  #   content:
-  #     title: "Recent News"
-  #     subtitle: ""
-  #     text: ""
-  #     page_type: "blog"
-  #     count: 10
-  #     filters:
-  #       author: ""
-  #       category: ""
-  #       tag: ""
-  #       exclude_featured: false
-  #       exclude_future: false
-  #       exclude_past: false
-  #       publication_type: ""
-  #     offset: 0
-  #     order: "desc"
-  #   design:
-  #     view: "card"
-  #     spacing:
-  #       padding:
-  #         - 0
-  #         - 0
-  #         - 0
-  #         - 0
-  #   ue: "section-news"
-  #   id: "news"
-  #   As: "section-68420036"
   - block: "cta-card"
     demo: true
     content:

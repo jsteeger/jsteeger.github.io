@@ -60,7 +60,9 @@ links:
 image:
   # caption: ''
   focal_point: "top"
-  preview_only: false
+  preview_only: true
+cover:
+  focal_point: "top"
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
