@@ -59,7 +59,7 @@ cover:
     x: 50
     y: 50
   fade:
-    enabled: false
+    enabled: true
 # projects:
 #   - credence-chance
 slides: ""
