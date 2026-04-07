@@ -5,6 +5,9 @@ date: 2024-01-01
 # type: docs
 tags: []
 reading_time: false
+image:
+  caption: 'Image credit: [**Wikimedia**](https://commons.wikimedia.org/wiki/File:Zeno_Achilles_Paradox.png)'
+  # focal_point: ""
 ---
 
 What *is* philosophy, anyway? In this introductory course, we aim to figure that out by getting our hands dirty and doing it.
