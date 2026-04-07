@@ -8,6 +8,8 @@ tags:
   - Quantum Foundations
   - Physics Education Research
 reading_time: false
+image:
+  preview_only: true
 ---
 
 This project develops novel technical results about the probabilities appearing in quantum mechanics that bridge and support several different interpretations of what that theory says about reality. It also explores the utility of this pluralist approach for upper-level physics education, in collaboration with [Rachel E. Scherr.](/authors/rachel-e-scherr)
