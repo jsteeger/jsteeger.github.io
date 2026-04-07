@@ -5,6 +5,9 @@ date: 2023-04-01
 # type: docs
 tags: []
 reading_time: false
+image:
+  caption: 'Image credit: [**Wikimedia**](https://commons.wikimedia.org/wiki/File:Turing_machine_2b.svg)'
+  # focal_point: ""
 ---
 
 We explore the limits of what we can know with and about formal systems of reasoning.
