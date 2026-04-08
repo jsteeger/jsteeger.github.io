@@ -16,7 +16,7 @@ sections:
     design:
       biography:
         # Customize the CSS style of your biography text (optional)
-        style: 'margin-left: 2em'
+        style: 'margin-left: 1em'
     ue: "section-6-resume-biography"
     As: "section-3c5142da"
   - block: "markdown"
