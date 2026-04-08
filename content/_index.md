@@ -13,6 +13,10 @@ sections:
         text: "CV"
         icon: /hero/arrow-down-tray
         url: "/uploads/resume.pdf"
+    design:
+      biography:
+        # Customize the CSS style of your biography text (optional)
+        style: 'margin-left: 2em'
     ue: "section-6-resume-biography"
     As: "section-3c5142da"
   - block: "markdown"
