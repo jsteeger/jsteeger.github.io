@@ -5,7 +5,6 @@ links:
   # - type: site
   #   url: https://github.com/pandas-dev/pandas
 tags:
-  - Quantum Foundations
   - Physics Education Research
 reading_time: false
 image:
