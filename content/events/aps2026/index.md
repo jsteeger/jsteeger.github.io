@@ -36,11 +36,12 @@ featured: true
 image:
   caption: "Jer, Rachel, and five students from Rachel's quantum mechanics course at APS 2026."
   focal_point: smart
+  preview_only: true
 
 links:
-  - icon: brands/slides
-    name: Slides
-    url: https://slides.com/jersteeger/talk-about-measurement
+  # - icon: brands/slides
+  #   name: Slides
+  #   url: https://slides.com/jersteeger/talk-about-measurement
   # - icon: brands/youtube
   #   name: Video Tutorial
   #   url: https://www.youtube.com/
@@ -49,9 +50,11 @@ links:
   #   url: https://docs.hugoblox.com/guides/slides/
 
 # Link to your Markdown slides
-# slides: "example"
+# slides: example
 
 # projects:
 # - credence-chance
 ---
+## Slides
 
+<center><iframe src="https://slides.com/jersteeger/talk-about-measurement/embed?byline=hidden" width="576" height="420" title="Why not talk about measurement?" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
