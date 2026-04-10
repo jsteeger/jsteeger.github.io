@@ -36,7 +36,7 @@ featured: true
 image:
   caption: "Jer, Rachel, and five students from Rachel's quantum mechanics course at APS 2026."
   focal_point: smart
-  preview_only: true
+  preview_only: false
 
 links:
   # - icon: brands/slides
@@ -55,6 +55,7 @@ links:
 # projects:
 # - credence-chance
 ---
+---
 ## Slides
 
-<center><iframe src="https://slides.com/jersteeger/talk-about-measurement/embed?byline=hidden" width="576" height="420" title="Why not talk about measurement?" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+<center><iframe src="https://slides.com/jersteeger/talk-about-measurement/embed?byline=hidden" width="650" height="420" title="Why not talk about measurement?" scrolling="no" frameborder="1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>

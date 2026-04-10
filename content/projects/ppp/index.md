@@ -27,4 +27,6 @@ Jer Steeger, James Read (2026). [Everettian chance in no uncertain terms.](/publ
 
 ## Talks
 
+Rachel E. Scherr, Jer Steeger (2026). [Student views about measurement in two quantum models.](/events/aps2026-res)
+
 Jer Steeger, Rachel E. Scherr (2026). [Why not talk about measurement?](/events/aps2026)
