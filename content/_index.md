@@ -67,6 +67,7 @@ sections:
       filters:
         folders:
           - "events"
+        featured_only: true
     design:
       view: "card"
       show_read_time: false

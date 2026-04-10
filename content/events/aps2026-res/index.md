@@ -34,8 +34,8 @@ tags:
 featured: false
 
 image:
-  caption: "Jer, Rachel, and five students from Rachel's quantum mechanics course at APS 2026."
-  focal_point: smart
+  focal_point: bottom
+  preview_only: true
 
 links:
   - icon: hero/presentation-chart-bar
