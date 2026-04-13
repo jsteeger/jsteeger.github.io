@@ -8,6 +8,7 @@ tags:
   - Physics Education Research
 reading_time: false
 image:
+  fill_image: false
   preview_only: true
 authors:
   - me
