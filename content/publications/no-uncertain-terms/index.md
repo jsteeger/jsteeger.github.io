@@ -65,6 +65,10 @@ cover:
 slides: ""
 
 ---
+---
+## Slides
+
+<center><iframe src="https://slides.com/jersteeger/why-not-talk-about-measurement/embed" width="650" height="420" title="Everettian chance in no uncertain terms" scrolling="no" frameborder="1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 
 <!-- This work is driven by the results in my [previous paper](/publications/conference-paper/) on LLMs.
 

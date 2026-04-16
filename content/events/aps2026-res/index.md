@@ -57,4 +57,4 @@ links:
 ---
 ## Slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5mg3Ix7Ll0oUHpnaaEHeDNLVEP_CJ2mcKiI0MG6HznQZ-f8lUZbylvTBEzpMAdVz__Py-J7_SFEe5/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="650" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5mg3Ix7Ll0oUHpnaaEHeDNLVEP_CJ2mcKiI0MG6HznQZ-f8lUZbylvTBEzpMAdVz__Py-J7_SFEe5/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="650" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></center>
