@@ -34,8 +34,8 @@ links:
     url: https://philsci-archive.pitt.edu/28291/1/everett-chance-v2-pitt.pdf
   # - type: code
   #   url: https://github.com/HugoBlox/kit
-  # - type: slides
-  #   url: https://www.slideshare.net/
+  - type: slides
+    url: https://slides.com/jersteeger/everettian-chance-in-no-uncertain-terms
   # - type: dataset
   #   url: "#"
   # - type: poster
@@ -65,10 +65,10 @@ cover:
 slides: ""
 
 ---
----
-## Slides
+<!-- ---
+## Slides -->
 
-<center><iframe src="https://slides.com/jersteeger/why-not-talk-about-measurement/embed" width="650" height="420" title="Everettian chance in no uncertain terms" scrolling="no" frameborder="1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
+
 
 <!-- This work is driven by the results in my [previous paper](/publications/conference-paper/) on LLMs.
 
