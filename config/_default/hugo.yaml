@@ -35,7 +35,7 @@ build:
   writeStats: true
   binaries:
     tailwindcss:
-      command: tailwindcss
+      command: ./node_modules/.bin/tailwindcss
 enableGitInfo: false
 summaryLength: 30
 pagination:
