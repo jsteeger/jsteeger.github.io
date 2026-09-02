@@ -6,15 +6,18 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: 2026-04-02T00:00:00Z
+date: 2026-08-31T00:00:00Z
 publishDate: 2017-01-01T00:00:00Z
 reading_time: false
 
 publication_types:
   - article
-publication: ""
-publication_short: ""
-abstract: "The current landscape of views on the role of chance in the Everett interpretation is rocky. Everettians (Wallace 2012, Sebens and Carroll 2018, McQueen and Vaidman 2019) agree that chance values should be derived using principles governing uncertain or partial belief, but they cannot agree on how. Critics (Baker 2007, Mandolesi 2019, Dawid and Thébault 2025) maintain that these approaches are circular. We smooth the landscape by shifting focus from what Everettians take to be uncertain to what they should think is certain: namely, the conditions under which branches are isolated. Our approach to isolation resolves the main tensions among the different Everettian chance derivations while clarifying how they avoid circularity."
+
+# Publication name and optional abbreviated publication name.
+publication: "*European Journal for Philosophy of Science,* forthcoming"
+publication_short: "*EJPS,* forthcoming"
+
+abstract: "The current landscape of views on the role of chance in the Everett interpretation is rocky. Everettians (Wallace 2012, Sebens and Carroll 2018, McQueen and Vaidman 2019) agree that chance values should be derived using rules of rationality governing agents’ uncertain reasoning and/or decision-making, but they cannot agree on how. Critics (Baker 2007, Mandolesi 2019, Dawid and Thébault 2025) maintain that these approaches are circular. We smooth the landscape by shifting focus from rules of rationality to physical facts on which Everettians agree: namely, the conditions under which branches are isolated. Our approach to isolation resolves the main tensions among the different Everettian chance derivations while clarifying how they avoid circularity."
 summary: "We unify Everettian accounts of chance by focusing on the conditions under which branches are isolated."
 tags:
 - Quantum Foundations
@@ -28,10 +31,10 @@ links:
   - type: preprint
     provider: PhilSci-Archive
     id: 28291
-    url: https://philsci-archive.pitt.edu/id/eprint/30373
+    url: https://philsci-archive.pitt.edu/30907/
     icon: hero/link
   - type: pdf
-    url: https://philsci-archive.pitt.edu/30373/1/eqm-pitt-v3.pdf
+    url: https://philsci-archive.pitt.edu/30907/1/eqm-accepted.pdf
   # - type: code
   #   url: https://github.com/HugoBlox/kit
   - type: slides
