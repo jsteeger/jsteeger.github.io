@@ -17,7 +17,7 @@ address:
 
 summary: We unify Everettian accounts of chance by focusing on the conditions under which branches are isolated.
 abstract: |
-  The current landscape of views on the role of chance in the Everett interpretation is rocky. Everettians (Wallace 2012, Sebens and Carroll 2018, McQueen and Vaidman 2019) agree that chance values should be derived using rules of rationality governing agents’ uncertain reasoning and/or decision-making, but they cannot agree on how. Critics (Baker 2007, Mandolesi 2019, Dawid and Thébault 2025) maintain that these approaches are circular. We smooth the landscape by shifting focus from rules of rationality to physical facts on which Everettians agree: namely, the conditions under which branches are isolated. Our approach to isolation resolves the main tensions among the different Everettian chance derivations while clarifying how they avoid circularity
+  The current landscape of views on the role of chance in the Everett interpretation is rocky. Everettians (Wallace 2012, Sebens and Carroll 2018, McQueen and Vaidman 2019) agree that chance values should be derived using rules of rationality governing agents’ uncertain reasoning and/or decision-making, but they cannot agree on how. Critics (Baker 2007, Mandolesi 2019, Dawid and Thébault 2025) maintain that these approaches are circular. We smooth the landscape by shifting focus from rules of rationality to physical facts on which Everettians agree: namely, the conditions under which branches are isolated. Our approach to isolation resolves the main tensions among the different Everettian chance derivations while clarifying how they avoid circularity.
 # Talk start and end times.
 event_start: '2026-04-23T17:15:00Z'
 event_end: '2026-04-23T18:30:00Z'
