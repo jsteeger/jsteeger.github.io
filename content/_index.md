@@ -69,6 +69,7 @@ sections:
           - "events"
         featured_only: true
     design:
+      fill_image: false
       view: "card"
       show_read_time: false
     ue: "section-talks"
