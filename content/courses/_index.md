@@ -23,6 +23,7 @@ sections:
         #   - section
     design:
       view: article-grid
+      fill_image: false
       show_read_time: false
       show_date: false
       show_read_more: false
