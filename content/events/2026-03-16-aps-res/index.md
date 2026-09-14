@@ -31,7 +31,7 @@ authors:
 tags:
   - Physics Education Research
 
-featured: true
+featured: false
 
 image:
   focal_point: bottom
