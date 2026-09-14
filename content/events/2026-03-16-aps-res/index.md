@@ -38,15 +38,8 @@ image:
   preview_only: true
 
 links:
-  # - icon: hero/presentation-chart-bar
-  #   name: Slides
-  #   url: https://docs.google.com/presentation/d/1Qvxn5lFcPU5apfnrj0lRsqvUlMU1bsuZtd4zuoBu9Co/edit?slide=id.p#slide=id.p
-  # - icon: brands/youtube
-  #   name: Video Tutorial
-  #   url: https://www.youtube.com/
-  # - icon: book-open
-  #   name: Documentation
-  #   url: https://docs.hugoblox.com/guides/slides/
+  - type: slides
+    url: https://docs.google.com/presentation/d/1Qvxn5lFcPU5apfnrj0lRsqvUlMU1bsuZtd4zuoBu9Co/edit?usp=sharing
 
 # Link to your Markdown slides
 # slides: "example"
@@ -54,7 +47,3 @@ links:
 # projects:
 # - credence-chance
 ---
----
-## Slides
-
-<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5mg3Ix7Ll0oUHpnaaEHeDNLVEP_CJ2mcKiI0MG6HznQZ-f8lUZbylvTBEzpMAdVz__Py-J7_SFEe5/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="650" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></center>

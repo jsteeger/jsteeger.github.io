@@ -31,7 +31,7 @@ authors:
 tags:
   - Physics Education Research
 
-featured: true
+featured: false
 
 image:
   caption: "Jer, Rachel, and five students from Rachel's quantum mechanics course at APS 2026."
@@ -39,15 +39,8 @@ image:
   preview_only: false
 
 links:
-  # - icon: brands/slides
-  #   name: Slides
-  #   url: https://slides.com/jersteeger/talk-about-measurement
-  # - icon: brands/youtube
-  #   name: Video Tutorial
-  #   url: https://www.youtube.com/
-  # - icon: book-open
-  #   name: Documentation
-  #   url: https://docs.hugoblox.com/guides/slides/
+  - type: slides
+    url: https://slides.com/jersteeger/talk-about-measurement
 
 # Link to your Markdown slides
 # slides: example
@@ -55,7 +48,3 @@ links:
 # projects:
 # - credence-chance
 ---
----
-## Slides
-
-<center><iframe src="https://slides.com/jersteeger/talk-about-measurement/embed?byline=hidden" width="650" height="420" title="Why not talk about measurement?" scrolling="no" frameborder="1" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
