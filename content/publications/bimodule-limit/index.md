@@ -37,7 +37,7 @@ links:
     icon: /academicons/doi
   - type: preprint
     provider: arxiv
-    url: https://arxiv.org/abs/2403.08060
+    url: https://arxiv.org/html/2403.08060v1
     icon: /academicons/arxiv
   # - type: poster
   #   url: ""

@@ -39,7 +39,7 @@ links:
     icon: /academicons/doi
   - type: preprint
     provider: arxiv
-    url: https://doi.org/10.48550/arXiv.2102.11993
+    url: https://arxiv.org/html/2102.11993v2
     icon: /academicons/arxiv
   # - type: poster
   #   url: ""
