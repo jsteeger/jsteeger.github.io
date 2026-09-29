@@ -1,0 +1,32 @@
+schema: hugoblox/author/v1
+slug: paige-sechrest
+is_owner: false
+name:
+  display: "Paige Sechrest"
+  given: "Paige"
+  family: "Sechrest"
+  alternate: ""
+  pronunciation: ""
+  pronouns: "she/her"
+postnominals:
+  - "PhD"
+status:
+  icon: ""
+role: "Lecturer"
+bio: "Paige Sechrest designs and implements training programs aimed at preventing sexual harassment and discrimination and ensuring a safe and inclusive campus environment.\n"
+
+affiliations:
+  - name: "University of Wisconsin-Eau Claire"
+    url: "https://www.uwec.edu/profiles/sechrepa"
+
+links:
+  - icon: "at-symbol"
+    url: "mailto:sechrepa@uwec.edu"
+    label: "E-mail Me"
+  - icon: "brands/linkedin"
+    url: "https://www.linkedin.com/in/paige-sechrest-phd/"
+
+interests:
+  - "Political Science"
+  - "Epistemology (Feminist)"
+  - "Physics Education Research"
